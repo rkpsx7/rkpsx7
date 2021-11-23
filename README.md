@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Android Development**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/rkpsx7?tab=repositories)
-- 🧧 My [Resume ](https://docs.google.com/document/d/1mvAx9WGOlEepjF_dw9sjaEaHJBrWhsuDbGQ79TWMdkg/edit)
+- 🧧 My [Resume ](https://drive.google.com/file/d/1niLDYq7dPIfWRNZbpEj4oq8-F1f8nvAk/view?usp=sharing)
 - Connect with me via [Linkedin](https://www.linkedin.com/in/rkpsx7/)
 
 
