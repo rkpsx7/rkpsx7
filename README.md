@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar Prajapat</h1>
-<h3 align="center">A Full-Stack Android Developer from India</h3>
+<h3 align="center">An Android Developer from India</h3>
 
 
 - 🌱 I’m currently learning **Android Development**
