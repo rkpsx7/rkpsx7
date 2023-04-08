@@ -2,7 +2,7 @@
 <h3 align="center">An Android Developer from India</h3>
 
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m an **Android Development** with over one year of experience in Product based startup.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/rkpsx7?tab=repositories)
 - 🧧 My [Resume ](https://drive.google.com/file/d/13RDKFtTIEyj3gHk2kf09QqZrNdPMbFdv/view?usp=sharing)
