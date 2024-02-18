@@ -5,7 +5,7 @@
 - 🌱 I’m an **Android Development** with over one year of experience in Product based startup.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/rkpsx7?tab=repositories)
-- 🧧 My [Resume ](https://drive.google.com/file/d/13RDKFtTIEyj3gHk2kf09QqZrNdPMbFdv/view?usp=sharing)
+- 🧧 My [Resume ](https://drive.google.com/file/d/1_2UpwY4mxOKFEJ33OQ71vtJA1nMNcYQ5/view?usp=sharing)
 - Connect with me via [Linkedin](https://www.linkedin.com/in/rkpsx7/)
 
 
